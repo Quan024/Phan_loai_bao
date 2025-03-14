@@ -2,7 +2,7 @@ Tải python Cài môi trường
 
 Cài react "npm install"
 
-Cài module "pip install fastapi uvicorn torch torch-geometric"
+Cài module "pip install fastapi uvicorn torch torch-geometric","pip install scipy"
 
 Vào cmd của backend/scr chạy "uvicorn src.server:app --host 0.0.0.0 --port 8000 --reload" để khởi động API
 
